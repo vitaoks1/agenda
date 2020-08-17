@@ -69,6 +69,7 @@ color: blue;
                 bottom: -80px;
                 border-bottom: 80px solid transparent;
                 border-right-width: 2000px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
+  text-align: center;
             }
             #section1{
                 background: #FF895B;
