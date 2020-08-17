@@ -41,41 +41,7 @@ position: relative;
   height: 150px;
   cursor: pointer;
 }
-#rcorners3:hover{
-color: red;
+#rcorners3:hover {
+background: url(https://i.imgur.com/NnFAlaO.jpg);
+
 }
-
-#rcorners3:active{
-color: blue;
-}
-
-
-
-
-            .trap_section{
-                position: relative;
-                width: 2000px;
-                border: none;
-                margin-top: 100px;
-            }
-            #trap_top1{
-                position: absolute;
-                top: -80px;
-                border-top: 80px solid transparent;
-                border-right-width: 2000px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
-            }
-            #trap_bottom1{    
-                position: absolute;
-                bottom: -80px;
-                border-bottom: 80px solid transparent;
-                border-right-width: 2000px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
-  text-align: center;
-            }
-            #section1{
-                background: #FF895B;
-                color: #FFFFFF;
-                margin: 0 auto;
-                overflow-y: hidden;
-                height: 200px;
-            }
-            h1, p{text-align:center;}
