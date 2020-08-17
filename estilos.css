@@ -42,6 +42,6 @@ position: relative;
   cursor: pointer;
 }
 #rcorners3:hover {
-background: url(https://i.imgur.com/NnFAlaO.jpg);
+opacity: 70%;
 
 }
