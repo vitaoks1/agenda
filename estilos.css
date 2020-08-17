@@ -36,9 +36,9 @@ position: relative;
   background: url(https://i.imgur.com/vRAkBf7.jpg);
   background-position: left top;
   background-repeat: repeat;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+  padding: 5%;
+  width: 30%;
+  height: 40%;
   cursor: pointer;
 }
 #rcorners3:hover {
