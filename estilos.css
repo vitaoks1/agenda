@@ -54,7 +54,7 @@ color: blue;
 
             .trap_section{
                 position: relative;
-                width: 500px;
+                width: 1000px;
                 border: none;
                 margin-top: 100px;
             }
@@ -62,13 +62,13 @@ color: blue;
                 position: absolute;
                 top: -80px;
                 border-top: 80px solid transparent;
-                border-right-width: 500px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
+                border-right-width: 1000px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
             }
             #trap_bottom1{    
                 position: absolute;
                 bottom: -80px;
                 border-bottom: 80px solid transparent;
-                border-right-width: 500px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
+                border-right-width: 1000px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
             }
             #section1{
                 background: #FF895B;
