@@ -13,7 +13,7 @@ src: url("sfbold.ttf") format("ttf"),
 h1 {
 font-family: 'Shakies';
 font-weight: lighter;
-  font-size: 70;
+  font-size: 150;
 font-style: normal;
 color: white;
 text-align: center;
@@ -36,9 +36,9 @@ position: relative;
   background: url(https://i.imgur.com/vRAkBf7.jpg);
   background-position: left top;
   background-repeat: repeat;
-  padding: 5%;
-  width: 30%;
-  height: 40%;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
   cursor: pointer;
   margin-left: +50%;
   margin-right: -50%;
