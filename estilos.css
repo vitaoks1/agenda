@@ -38,8 +38,7 @@ position: relative;
   width: 250px;
   height: 150px;
   cursor: pointer;
-  margin-left: +50%;
-  margin-right: -50%;
+  text-align: center;
 }
 #rcorners3:hover {
 opacity: 70%;
