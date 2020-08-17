@@ -40,6 +40,8 @@ position: relative;
   width: 30%;
   height: 40%;
   cursor: pointer;
+  margin-left: +50%;
+  margin-right: -50%;
 }
 #rcorners3:hover {
 opacity: 70%;
