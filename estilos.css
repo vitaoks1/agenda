@@ -10,12 +10,12 @@ src: url("sfbold.ttf");
 src: url("sfbold.ttf") format("ttf"),
 }
 
-h1 {
+#fonte2 {
 font-family: 'Shakies';
-  font-size: 130;
 font-weight: lighter;
 color: white;
-text-align: center;
+margin-left: 50%;
+font-size: 100;
 }
 p {
 text-align: left;  
@@ -35,7 +35,7 @@ position: relative;
   background-position: left top;
   background-repeat: repeat;
   padding: 20px;
-  width: 200px;
+  width: 250px;
   height: 150px;
   cursor: pointer;
   margin-left: +50%;
