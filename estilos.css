@@ -1,0 +1,33 @@
+@font-face {
+font-family: "SF Pro Display Regular";
+src: url("sfpro.ttf");
+src: url("sfpro.ttf") format("ttf"),
+}
+
+@font-face {
+font-family: "SF Pro Display Bold";
+src: url("sfbold.ttf");
+src: url("sfbold.ttf") format("ttf"),
+}
+
+h1 {
+font-family: 'SF Pro Display';
+font-weight: bold;
+font-style:normal;
+color: white;
+text-align: center;
+position: relative;
+}
+body {
+background-image: url(https://i.imgur.com/c4plbgp.jpg);
+}
+
+h2 {
+font-family: 'SF Pro Display';
+font-weight: lighter;
+font-size: 16;
+font-style:normal;
+color: white;
+text-align: left;
+position: relative;
+}
