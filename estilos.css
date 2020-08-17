@@ -11,23 +11,70 @@ src: url("sfbold.ttf") format("ttf"),
 }
 
 h1 {
-font-family: 'SF Pro Display';
-font-weight: bold;
-font-style:normal;
+font-family: 'Shakies';
+font-weight: lighter;
+  font-size: 70;
+font-style: normal;
 color: white;
 text-align: center;
 position: relative;
 }
-body {
-background-image: url(https://i.imgur.com/c4plbgp.jpg);
+p {
+text-align: left;  
 }
-
 h2 {
 font-family: 'SF Pro Display';
-font-weight: lighter;
-font-size: 16;
+font-weight: NORMAL;
+font-size: 32;
 font-style:normal;
 color: white;
-text-align: left;
+float: left;
 position: relative;
 }
+#rcorners3 {
+  border-radius: 25px;
+  background: url(https://i.imgur.com/vRAkBf7.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  cursor: pointer;
+}
+#rcorners3:hover{
+color: red;
+}
+
+#rcorners3:active{
+color: blue;
+}
+
+
+
+
+            .trap_section{
+                position: relative;
+                width: 500px;
+                border: none;
+                margin-top: 100px;
+            }
+            #trap_top1{
+                position: absolute;
+                top: -80px;
+                border-top: 80px solid transparent;
+                border-right-width: 500px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
+            }
+            #trap_bottom1{    
+                position: absolute;
+                bottom: -80px;
+                border-bottom: 80px solid transparent;
+                border-right-width: 500px; border-right-style: solid; border-right-color: rgb(255, 137, 91);
+            }
+            #section1{
+                background: #FF895B;
+                color: #FFFFFF;
+                margin: 0 auto;
+                overflow-y: hidden;
+                height: 200px;
+            }
+            h1, p{text-align:center;}
