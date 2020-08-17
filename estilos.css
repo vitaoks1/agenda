@@ -12,8 +12,8 @@ src: url("sfbold.ttf") format("ttf"),
 
 h1 {
 font-family: 'Shakies';
+  font-size: 130;
 font-weight: lighter;
-font-size: 150;
 color: white;
 text-align: center;
 }
