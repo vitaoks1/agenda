@@ -29,6 +29,15 @@ color: white;
 float: left;
 position: relative;
 }
+h3 {
+font-family: 'SF Pro Display';
+font-weight: NORMAL;
+font-size: 32;
+font-style:normal;
+color: white;
+margin-right: 50%;
+position: relative;
+}
 #rcorners3 {
   border-radius: 25px;
   background: url(https://i.imgur.com/vRAkBf7.jpg);
